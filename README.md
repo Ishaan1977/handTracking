@@ -22,12 +22,15 @@ It leverages computer vision to detect your hand, measure its distance, and inte
    cd handTracking
 
 2. Install dependencies
-   ``` pip install opencv-python cvzone numpy
+   ```bash
+    pip install opencv-python cvzone numpy
 
 3. Run hand distance tracking
-   ``` python DisTrcking.py
+   ```bash
+   python DisTrcking.py
 
 4. Run the game
-   ``` python Game.py
+   ```bash
+   python Game.py
 
 
